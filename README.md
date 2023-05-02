@@ -16,3 +16,4 @@ Table widget displaying the list of students and their information.
 Toolbar with "Add Student" and "Search" buttons.
 Status bar displaying "Edit Record" and "Delete Record" buttons after clicking on a cell in the table.
 Insert, Search, Edit, Delete, and About dialogs.
+![st](https://user-images.githubusercontent.com/77914588/235754518-713ac414-ae2f-4182-a809-7b3749e61689.PNG)
